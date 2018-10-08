@@ -1,4 +1,4 @@
-package com.infolytx.spring.main;
+package com.finfolytx.spring;
 
 
 import org.springframework.boot.SpringApplication;
